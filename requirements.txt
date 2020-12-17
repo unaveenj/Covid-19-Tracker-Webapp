@@ -3,5 +3,5 @@ streamlit ==0.72.0
 Pillow
 pandas
 seaborn
-pip install plotly ==4.0.0
+plotly ==4.0.0
 requests
