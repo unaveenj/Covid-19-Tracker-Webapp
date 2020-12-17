@@ -1,4 +1,5 @@
 # Covid-19 Tracker Dashboard using Streamlit
+## Deployed in Heroku : [Covid-19 Web App Click here](  https://covid19-streamlit-webapp.herokuapp.com/)
 ![Alt Text](covid_bg.jpg)
 
 ## Screenshots
